@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hey there! I'm Kavinda
 
-<!--
-**KavindaAppuhamy/KavindaAppuhamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineering Enthusiast | Problem Solver | Self Learner
 
-Here are some ideas to get you started:
+I'm a BSc (Hons) Computing - Software Engineering undergraduate with a passion for crafting innovative solutions through clean and efficient code. Proficient in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Backend: Java | Spring Boot
+🔹 Frontend: React.js | HTML | CSS
+🔹 Database: MySQL
+🔹 Other Skills: Problem-solving | Team Work | Self Learning
+
+💡 Always eager to build, innovate, and collaborate on impactful projects. Let's connect and create something amazing!
+
+📌 GitHub: https://github.com/KavindaAppuhamy
+📧 Email: kavinda.appuhamy@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/kavinda-appuhamy/
