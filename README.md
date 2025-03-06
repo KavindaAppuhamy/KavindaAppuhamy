@@ -2,8 +2,9 @@
 <h3 align="center">A passionate and driven Software Engineering enthusiast</h3>
 
 <!-- GIF Section -->
-<img align="center" alt="Coding" width="1000" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXUyM3JydTJpZHFzMW0xM2U1OWZ4c2tpMHVzOTQ2bTEyM2trejAyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif">
-
+<p align="center">
+  <img alt="Coding" width="400" height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazk1ejZtbXZ2NHZ1YWRuZ2psdTVmMnFpYWdkNW1yeGlqanh6dWZ0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif">
+</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kavindaappuhamy&label=Profile%20views&color=0e75b6&style=flat" alt="kavindaappuhamy" /> 
