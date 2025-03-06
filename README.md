@@ -3,7 +3,7 @@
 
 <!-- GIF Section -->
 <p align="center">
-  <img alt="Coding" width="800" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHllOTFmN3V2NTdlMWtqbHRwNHV3MGdtaWxmZHR5aTl4b3lldno2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif">
+  <img alt="Coding" width="600" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHllOTFmN3V2NTdlMWtqbHRwNHV3MGdtaWxmZHR5aTl4b3lldno2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif">
 </p>
 
 <p align="left"> 
