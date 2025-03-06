@@ -34,7 +34,7 @@ I'm a passionate and driven **Software Engineering** student currently pursuing 
 
 ---
 
-<h3 align="left">📫 Let's Connect!:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kavinda-appuhamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavinda-appuhamy" height="30" width="40" /></a>
 <a href="https://fb.com/kavinda.roshan.71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavinda.roshan.71" height="30" width="40" /></a>
