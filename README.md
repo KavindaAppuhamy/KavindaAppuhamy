@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavinda Appuhamy</h1>
-<h3 align="center">A passionate and driven Software Engineering enthusiast</h3>
+<h3 align="center">A passionate Software Engineering Student</h3>
 
 <!-- GIF Section -->
 <p align="center">
