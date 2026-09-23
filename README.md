@@ -33,7 +33,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineering student and Full-Stack Developer** passionate about designing, developing, and continuously improving modern software applications.
+I'm a **self-motivated and collaborative Final-Year Undergraduate pursuing a BSc (Hons) in Computing at Coventry University - UK** passionate about designing, developing, and continuously improving modern software applications.
 
 I enjoy turning ideas into practical solutions — from responsive web applications and REST APIs to database-driven systems and algorithm-focused projects.
 
@@ -41,7 +41,7 @@ I'm particularly interested in **software engineering, full-stack development, b
 
 ### 🚀 Currently
 
-* 🎓 Studying **Higher National Diploma in Software Engineering**
+* 🎓 Studying **BSc (Hons) in Computing at Coventry University**
 * 💻 Building full-stack applications with **MERN & Java/Spring Boot**
 * ☁️ Exploring **AWS and cloud technologies**
 * 🧠 Strengthening **Data Structures & Algorithms**
