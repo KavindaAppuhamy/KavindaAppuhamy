@@ -1,104 +1,218 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Kavinda Appuhamy</h1>
 
-# Hi, I'm Kavinda Appuhamy 👋
+<h3 align="center">
+  Software Engineering Student · Full-Stack Developer · Technology Enthusiast
+</h3>
 
-### Software Engineering Undergraduate | BSc (Hons) Computing - Software Engineering
+<p align="center">
+  <a href="https://kavinda-dev-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/kavinda-appuhamy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kavinda.appuhamy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kavindaappuhamy.github.io/MyPortfolio-/Portfolio.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavinda-appuhamy)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavinda.appuhamy@gmail.com)
+<p align="center">
+  <img
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHllOTFmN3V2NTdlMWtqbHRwNHV3MGdtaWxmZHR5aTl4b3lldno2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif"
+    width="650"
+    alt="Coding animation"
+  />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kavindaappuhamy&label=Profile%20Views&color=0e75b6&style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kavindaappuhamy&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/kavindaappuhamy?label=Followers&style=flat-square" alt="GitHub followers"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a driven Software Engineering student passionate about building efficient, scalable, and impactful software. I enjoy solving complex problems and continuously exploring new tools and technologies.
+I'm a **Software Engineering student and Full-Stack Developer** passionate about designing, developing, and continuously improving modern software applications.
 
-- 🌱 Currently learning **MERN Stack** & **AWS**
-- 💬 Happy to talk about **Java** & **Spring Boot**
-- 📫 Reach me at **kavinda.appuhamy@gmail.com**
-- 🌐 Portfolio: [kavindaappuhamy.github.io/MyPortfolio-](https://kavindaappuhamy.github.io/MyPortfolio-/Portfolio.html)
+I enjoy turning ideas into practical solutions — from responsive web applications and REST APIs to database-driven systems and algorithm-focused projects.
+
+I'm particularly interested in **software engineering, full-stack development, backend architecture, cloud technologies, and problem solving**.
+
+### 🚀 Currently
+
+* 🎓 Studying **Higher National Diploma in Software Engineering**
+* 💻 Building full-stack applications with **MERN & Java/Spring Boot**
+* ☁️ Exploring **AWS and cloud technologies**
+* 🧠 Strengthening **Data Structures & Algorithms**
+* 🛠️ Working on personal and real-world software projects
+* 📚 Continuously learning modern development practices
+
+### 💡 Areas of Interest
+
+`Full-Stack Development` · `Backend Development` · `Software Engineering` · `REST APIs` · `Database Systems` · `Cloud Computing` · `UI/UX` · `Data Structures & Algorithms`
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/>
+</p>
 
-**Frontend**
+### Frontend
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" alt="Bootstrap"/>
+</p>
 
-**Backend & Frameworks**
+### Backend & Frameworks
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="45" height="45" alt="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" height="45" alt=".NET"/>
+</p>
 
-**Databases & Cloud**
+### Databases & Cloud
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="45" height="45" alt="Firebase"/>
+</p>
 
-**Tools & Design**
+### Tools & Design
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="45" height="45" alt="Photoshop"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="45" height="45" alt="Illustrator"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45" height="45" alt="Android"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" width="45" height="45" alt="Arduino"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📌 Featured Project
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kavindaappuhamy&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)
+### 🎮 Game Hub — Data Structures & Algorithms
+
+A full-stack game platform developed with a strong focus on **Data Structures & Algorithms**.
+
+**Technologies:**
+`React` · `Vite` · `Java` · `Spring Boot` · `PostgreSQL` · `JUnit`
+
+**Algorithms & Concepts:**
+
+* Greedy & Hungarian Assignment
+* BFS & Dijkstra
+* Edmonds-Karp & Dinic
+* Warnsdorff's Knight's Tour
+* Parallel Backtracking
+
+---
+
+### 🌐 Personal Portfolio
+
+A modern interactive developer portfolio showcasing my projects, skills, education, experience, and technical journey.
+
+**Technologies:**
+`React` · `Vite` · `Three.js` · `JavaScript` · `CSS`
+
+🔗 **[Visit My Portfolio](https://kavinda-dev-portfolio.vercel.app/)**
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kavindaappuhamy&show_icons=true&theme=transparent&hide_border=true&count_private=true"
+    height="180"
+    alt="Kavinda's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kavindaappuhamy&theme=transparent&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kavindaappuhamy&theme=algolia&hide_border=true&include_all_commits=false&count_private=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindaappuhamy&theme=algolia&hide_border=true&layout=compact" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindaappuhamy&theme=algolia&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavindaappuhamy&radius=16&theme=react-dark&area=true&hide_border=true" />
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindaappuhamy&layout=compact&theme=transparent&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
-## 🤝 Connect with Me
+## 📈 Contribution Activity
 
-<p align="left">
-<a href="https://linkedin.com/in/kavinda-appuhamy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="32" /></a>&nbsp;
-<a href="https://fb.com/kavinda.roshan.71" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="32" width="32" /></a>&nbsp;
-<a href="https://instagram.com/kavinda_appuhamy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="32" /></a>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kavindaappuhamy&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
-<div align="center">
-<i>Thanks for stopping by — let's build something great together! 💻</i>
-</div>
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=kavindaappuhamy&theme=flat&no-frame=true&no-bg=true&margin-w=8"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in **software development, collaboration, innovative ideas, and opportunities to build meaningful technology**.
+
+<p align="center">
+  <a href="https://kavinda-dev-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/kavinda-appuhamy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kavinda.appuhamy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/kavinda_appuhamy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Building. Learning. Improving. 🚀</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
